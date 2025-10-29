@@ -57,7 +57,7 @@ The **output folder** in this repository contains screenshots and exported repor
 ## ⚙️ How to Run the Project
 1. **Clone the repository**
 
-git clone https://github.com/rsivasankari26-prog/Naan-mudhalvan-.git
+git clone https://github.com/https://github.com/bhavadharini910-ai/Naan-mudhalvan-.git
 
 2. **Navigate to the project directory**
 
